@@ -1,0 +1,29 @@
+﻿# Build outputs
+bin/
+obj/
+publish/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Copilot instructions
+.github/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Generated folder icons
+folder.ico
+Resources/
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
